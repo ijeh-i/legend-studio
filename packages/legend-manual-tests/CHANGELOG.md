@@ -1,5 +1,11 @@
 # @finos/legend-manual-tests
 
+## 0.1.0
+
+### Minor Changes
+
+- [#963](https://github.com/finos/legend-studio/pull/963) [`b138cf17`](https://github.com/finos/legend-studio/commit/b138cf17e5d761d570a64453d3a0c4911edbcbe0) ([@MauricioUyaguari](https://github.com/MauricioUyaguari)) - Enable logging in grammar roundtrip tests.
+
 ## 0.0.37
 
 ## 0.0.36
